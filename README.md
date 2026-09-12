@@ -1,7 +1,5 @@
 # Enterprise_AI_Copilot
 
-# Enterprise AI Copilot 🤖
-
 An enterprise-grade AI knowledge assistant that uses **Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)** to answer questions from internal company documents with relevant sources and context.
 
 The goal of this project is to build a production-oriented AI assistant that can securely retrieve company knowledge, understand user queries, and generate grounded responses instead of relying only on the LLM's pre-trained knowledge.
